@@ -1,6 +1,6 @@
 import { useState } from "react"
 import From from "./components/Form"
-import Table from "./components/table"
+import Table from "./components/Table"
 export default function App() {
 
     const [fromData, setfromData] = useState(
